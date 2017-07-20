@@ -8,6 +8,10 @@ namespace Inheritence_and_polymorphism
 {
     class Program
     {
+        /// <summary>
+        /// bchusdbvchdrfv
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
         }
