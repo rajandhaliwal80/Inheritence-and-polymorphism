@@ -9,7 +9,9 @@ namespace Inheritence_and_polymorphism
     class Program
     {
         /// <summary>
-        /// bchusdbvchdrfv
+        /// Rajandeep Kaur Dhaliwal
+        /// 300926123
+        /// Comp123 SEC002
         /// </summary>
         /// <param name="args"></param>
         static void Main(string[] args)
