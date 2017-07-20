@@ -16,6 +16,7 @@ namespace Inheritence_and_polymorphism
         /// <param name="args"></param>
         static void Main(string[] args)
         {
+            //I love Programming
         }
     }
 }
